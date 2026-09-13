@@ -218,6 +218,7 @@ Used `CASE` to classify learners based on spending:
 * 🔹 **Low Value** – Below ₹8,000
 
 ---
+![Q10 Output](./Q10_Output.png)
 
 ### 🔹 10. NULL Handling
 
@@ -228,8 +229,9 @@ Used functions such as:
 
 to handle missing values and display meaningful results.
 
----
 
+---
+![Q11 Output](./Q11_Output.png]
 ### 🔹 11. SQL View
 
 Created a view named:
