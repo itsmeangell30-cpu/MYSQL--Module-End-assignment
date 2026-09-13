@@ -249,7 +249,7 @@ Example:
 SELECT *
 FROM category_performance_view;
 ```
-
+![Q12 Output](./Q12_Output.png)
 ---
 
 
