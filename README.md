@@ -231,7 +231,7 @@ to handle missing values and display meaningful results.
 
 
 ---
-![Q11 Output](./Q11_Output.png]
+![Q11 Output](./Q11_Output.png)
 ### 🔹 11. SQL View
 
 Created a view named:
